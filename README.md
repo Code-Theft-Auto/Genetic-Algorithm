@@ -16,7 +16,7 @@ Inside of algorithms you find the implementation of the brute-force approach and
 
 `problems` contains all problem-specific parts related to the Knapsack problems, like the definition of `Things` and the problem specific fitness function for the genetic algorithm.
 
-`utils` simply contains a utility function which a youtuber wrote himself.
+`utils` simply contains a utility function which i stole from stack overflow 😉
 
 `genetic_algo.py` uses the brute-force approach to find the best solution for a given Knapsack problem and tries to find the same solution using the genetic algorithm and compares the performance.
 
